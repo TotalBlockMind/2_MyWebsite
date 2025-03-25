@@ -51,6 +51,8 @@ i{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 400px;
+    overflow: hidden;
+    
 }
 .two {
     display: grid;
@@ -62,6 +64,7 @@ img{
     width: 100%;
     height: 100%;
     object-fit: cover;
+    
 }
 
 @media (max-width: 1024px) {
