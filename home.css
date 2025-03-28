@@ -30,7 +30,7 @@ button:hover {
     display: flex;
     justify-content: space-between;
     padding: 1rem;
-    background-color: green;
+    background-color: rgb(5, 60, 179);
 }
 
 a{
